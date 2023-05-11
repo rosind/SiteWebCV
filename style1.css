@@ -90,7 +90,7 @@ div .picture img{
 }
 .identity #first-name{
     position: relative;
-    font-size: 3.6em;
+    font-size: 3em;
     font-weight: 600;
     line-height: 1.3em;
 }
@@ -327,9 +327,6 @@ footer p{
     }
 }
 @media screen and (max-width: 320px) {
-    html{
-        /*width: 100%;*/
-    }
     .all{
         width: 100%;
         margin: 10px;
